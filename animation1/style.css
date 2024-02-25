@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h2{
+    font-size: 50px;
+    animation: Head 3s linear infinite;
+}
+
+ @keyframes Head{
+    50%{
+        opacity: 0%;
+    }
+  
+ } 
+ {
+    @keyframes tra
+ }
